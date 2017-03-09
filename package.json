@@ -1,0 +1,25 @@
+{
+  "name": "yet-another-simple-request",
+  "version": "1.0.0",
+  "description": "Yet another NPM module for making simple HTTP(s) requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassmanitram/yet-another-simple-request.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "promise",
+    "simple"
+  ],
+  "author": "martin.j.bartlett@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bassmanitram/yet-another-simple-request/issues"
+  },
+  "homepage": "https://github.com/bassmanitram/yet-another-simple-request#readme"
+}
